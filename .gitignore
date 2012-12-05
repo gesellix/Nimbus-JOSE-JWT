@@ -6,3 +6,4 @@ TEST*
 .pmd
 .project
 target
+*.iml
